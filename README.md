@@ -7,5 +7,7 @@ This project shows basic HTML abilites like linking pages, being able to put ima
 Credit to the original recipes that i used:
 
 Pumpkin Soup: https://www.allrecipes.com/recipe/9191/pumpkin-soup/
+
 Thanksgiving Turkey: https://www.allrecipes.com/recipe/166160/juicy-thanksgiving-turkey/
+
 Sushi Rice: https://www.allrecipes.com/recipe/137596/moms-sushi-rice/
